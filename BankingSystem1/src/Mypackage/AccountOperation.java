@@ -56,7 +56,7 @@ public class AccountOperation {
 				it.remove();
 			}
 		}
-		System.out.println("The user account got successfully deactivated...");	
+		System.out.println("The account of "+userName+" got successfully deactivated...");	
 	}
 	
 	
